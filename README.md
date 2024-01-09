@@ -1,5 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SeanDuffie.SeanDuffie" />
 
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanDuffie&show_icons=true&theme=radical)
+
 - 🔭 I’m currently working on an Automated Garden
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on ...
