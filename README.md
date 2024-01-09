@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src=https://visitor-badge.laobi.icu/badge?page_id=SeanDuffie.SeanDuffie" />
+
 <!--
 **SeanDuffie/SeanDuffie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
